@@ -1,9 +1,8 @@
-# Ali Albahar  
-Ali Albahar // 3xpthckr
+# About Me
+
+Ali Albahar 
 
 Backend-focused developer building automation tools and API-driven systems.
-
----
 
 ## Stack
 
@@ -17,8 +16,6 @@ Backend-focused developer building automation tools and API-driven systems.
   <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logoColor=white" />
 </p>
 
----
-
 ## Connect
 
 <p align="left">
@@ -30,15 +27,11 @@ Backend-focused developer building automation tools and API-driven systems.
   </a>
 </p>
 
----
-
 ## Overview
 
 I build backend systems with a focus on how things work internally — from request handling to system behavior under load.
 
 My work revolves around automation, APIs, and understanding performance rather than relying on abstractions.
-
----
 
 ## Projects
 
@@ -54,16 +47,12 @@ Workflow automation and Git experimentation.
 **api-playground**  
 API experiments and integrations.
 
----
-
 ## Current Focus
 
 - API monitoring and logging systems  
 - Task automation workflows  
 - System design and backend architecture  
 - Node.js internals and async patterns  
-
----
 
 ## Signal
 
