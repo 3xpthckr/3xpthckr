@@ -22,7 +22,7 @@ Backend-focused developer building automation tools and API-driven systems.
   <a href="mailto:habeebali.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/3xpthckr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
