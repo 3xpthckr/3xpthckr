@@ -1,79 +1,80 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ali+Albahar;Backend+Engineer;Automation+Systems;API+Architect;Scalable+Systems&center=true&width=600&height=60&color=00F0FF&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ali+Albahar;Backend+Engineer;Automation+Systems&center=true&width=600&height=60&color=00F0FF&size=30" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,25:ff00ff,50:00ff88,75:ffcc00,100:00f0ff&height=180&section=header&animation=twinkling" />
-</p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897782-965815c1-7b2b-4e4c-9f1c-4a5d5c7b6d6e.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff00ff,100:00ff88&height=160&section=header&animation=fadeIn" />
 </p>
 
 ---
 
-## About Me
-
+<!-- ABOUT TITLE (neon block style) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Backend+Systems;Automation+Focused;Performance+Driven;Real+World+Projects;Scalable+Architecture&center=true&width=700&height=45&color=FF00FF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=60&section=header&text=ABOUT%20ME&fontSize=28&fontColor=00F0FF" />
 </p>
 
-Backend-focused developer building scalable systems with deep focus on performance, request flow, and system behavior.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Systems;Automation+Focus;Performance+Driven&center=true&width=600&height=40&color=00FF88" />
+</p>
+
+Backend-focused developer building scalable systems with deep focus on performance and internal behavior.
 
 ---
 
-## Experience
-
+<!-- EXPERIENCE TITLE (glow pulse) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Freelance+Full+Stack+Developer;International+Clients;Production+Systems;End+to+End+Delivery&center=true&width=700&height=45&color=00FF88" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00ff,100:000000&height=60&section=header&text=EXPERIENCE&fontSize=28&fontColor=ffffff&animation=twinkling" />
 </p>
 
-- Built 5+ full-stack applications  
-- Worked with UAE clients  
-- Delivered complete systems (frontend + backend + deployment)  
-- Focused on production-grade performance  
+- Freelance Full Stack Developer  
+- Built 5+ production systems  
+- Worked with international clients  
+- Delivered end-to-end applications  
 
 ---
 
-## Stack
-
+<!-- STACK TITLE (minimal neon line style) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,python,aws,git&perline=8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F0FF&height=40&section=header&text=STACK&fontSize=24&fontColor=ffffff" />
 </p>
 
----
-
-## Live Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3xpthckr&bg_color=000000&color=00F0FF&line=FF00FF&point=00FF88&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,python,aws,git" />
 </p>
 
 ---
 
-## Stats
+<!-- ACTIVITY TITLE (matrix feel) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=LIVE+ACTIVITY;SYSTEM+FLOW;REAL+TIME+COMMITS&center=true&width=600&height=45&color=00FF00" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3xpthckr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3xpthckr&bg_color=000000&color=00FF00&line=00F0FF&point=FF00FF&hide_border=true" />
+</p>
+
+---
+
+<!-- STATS TITLE (bold tech style) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ffcc00,100:000000&height=60&section=header&text=STATS&fontSize=28&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3xpthckr&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=3xpthckr&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Snake
-
+<!-- PROJECTS TITLE (cyberpunk style) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00f0ff&height=80&section=header&text=PROJECTS&fontSize=30&fontColor=ffffff" />
 </p>
 
----
-
-## Projects
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Real+Systems;Backend+Heavy;Automation+Focused;API+Driven&center=true&width=600&height=45&color=00F0FF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Real+Systems;API+Driven;Automation+Focused&center=true&width=600&height=40&color=FF00FF" />
 </p>
 
 **doctor-patient-management-system**  
@@ -88,28 +89,24 @@ Tracks API requests and failures.
 **task-automation-engine**  
 Schedules backend jobs.
 
-**distributed-job-queue (in progress)**  
-Worker-based job queue.
-
-**rate-limiter-service (in progress)**  
-API rate limiting system.
-
 ---
 
-## Current Focus
-
+<!-- FOCUS TITLE (clean modern) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Design;Backend+Architecture;Node.js+Internals;Scalability;Async+Patterns&center=true&width=700&height=45&color=FFCC00" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:000000&height=50&section=header&text=CURRENT%20FOCUS&fontSize=24&fontColor=ffffff" />
 </p>
 
 - System design  
-- Automation  
 - Backend architecture  
+- Automation  
 - Performance optimization  
 
 ---
 
-## Connect
+<!-- CONNECT TITLE (minimal glowing) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CONNECT&center=true&width=200&height=40&color=00F0FF" />
+</p>
 
 <p align="center">
   <a href="mailto:habeebali.work@gmail.com">
@@ -123,5 +120,5 @@ API rate limiting system.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,25:00f0ff,50:00ff88,75:ffcc00,100:ff00ff&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00f0ff,100:00ff88&height=140&section=footer&animation=fadeIn" />
 </p>
