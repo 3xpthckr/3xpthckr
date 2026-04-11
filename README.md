@@ -19,10 +19,10 @@ Backend-focused developer building automation tools and API-driven systems.
 ## Connect
 
 <p align="left">
-  <a href="mailto:habeebali.work@gmail.com" target="_blank">
+  <a href="mailto:habeebali.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/3xpthckr/" target="_blank">
+  <a href="https://www.linkedin.com/in/3xpthckr/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
