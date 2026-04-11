@@ -1,39 +1,38 @@
-<!-- subtle boot -->
+<!-- subtle intro animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Profile...;Access+Granted&center=true&width=500&height=40&color=00F0FF&size=22&pause=900" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ali+Albahar;Backend+Engineer;Automation+Systems;API+Architect&center=true&width=600&height=45&color=00F0FF&size=24" />
 </p>
 
-<!-- clean neon header -->
+<!-- clean header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=120&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=120&section=header" />
 </p>
 
 <h1 align="center">Ali Albahar</h1>
 
 <p align="center">
-Backend Engineer focused on scalable systems and internal behavior
+Backend Engineer focused on scalable systems, automation, and performance.
 </p>
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=%5B%23%24%25%5E%26...Decrypting+ABOUT...%5D;ABOUT&center=true&width=420&height=35&color=00F0FF" />
-</p>
+## About
 
 Backend-focused developer building automation tools and API-driven systems.
 
-Focused on performance, request flow, and system internals.
+Focused on performance, request flow, and understanding system behavior rather than relying on abstractions.
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=%24%25%5E%26%2A...Loading+EXPERIENCE...;EXPERIENCE&center=true&width=460&height=35&color=00F0FF" />
-</p>
+## Experience
 
-- Freelance Full Stack Developer  
+**Freelance Full Stack Developer**  
+Dec 2023 – Present  
+
 - Built production-ready applications  
-- Worked with international clients  
-- Delivered full systems end-to-end  
+- Delivered end-to-end systems (frontend, backend, deployment)  
+- Worked with international clients (including UAE-based businesses)  
+- Focused on performance and scalability  
 
 ---
 
@@ -61,9 +60,13 @@ Focused on performance, request flow, and system internals.
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=%5E%26%25%24...Accessing+PROJECTS...;PROJECTS&center=true&width=420&height=35&color=00F0FF" />
-</p>
+## Projects
+
+**doctor-patient-management-system**  
+Role-based system with authentication and scheduling.
+
+**ecommerce-platforms**  
+Full-stack systems with payments and product management.
 
 **api-monitoring-system**  
 Tracks API requests and failures.
@@ -74,14 +77,17 @@ Schedules backend jobs.
 **distributed-job-queue (in progress)**  
 Worker-based job queue.
 
+**rate-limiter-service (in progress)**  
+API rate limiting system.
+
 ---
 
 ## Focus
 
 - Backend architecture  
 - System design  
-- Automation  
-- Performance  
+- Automation systems  
+- Performance optimization  
 
 ---
 
@@ -98,6 +104,7 @@ Worker-based job queue.
 
 ---
 
+<!-- footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=100&section=footer" />
 </p>
