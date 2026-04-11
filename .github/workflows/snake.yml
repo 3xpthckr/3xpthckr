@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake (cyberpunk)
         uses: Platane/snk@v3
         with:
           github_user_name: 3xpthckr
           outputs: |
-                dist/github-contribution-grid-snake-dark.svg
-                color_snake: "#00F0FF"
-                color_dots: "#000000,#0a0a0a,#00F0FF,#00F0FF,#00F0FF"
+            dist/github-contribution-grid-snake-dark.svg
+          color_snake: "#00F0FF"
+          color_dots: "#000000,#050505,#0a0a0a,#00F0FF,#00FFFF"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
