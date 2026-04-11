@@ -1,41 +1,44 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ali+Albahar;Backend+Engineer;Automation+Systems&center=true&width=600&height=60&color=00F0FF&size=30" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ali+Albahar;Backend+Engineer;Automation+Systems;API+Architect&center=true&width=650&height=60&color=00F0FF&size=30&pause=800" />
 </h1>
 
+<!-- Animated gradient header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff00ff,100:00ff88&height=160&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF00FF,100:00FF88&height=160&section=header&animation=twinkling" />
+</p>
+
+<!-- subtle animated line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-965815c1-7b2b-4e4c-9f1c-4a5d5c7b6d6e.gif" width="100%" />
 </p>
 
 ---
 
-<!-- ABOUT TITLE (neon block style) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=60&section=header&text=ABOUT%20ME&fontSize=28&fontColor=00F0FF" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=ABOUT+ME;DECRYPTING+PROFILE...;ACCESS+GRANTED&center=true&width=500&height=40&color=FF00FF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Systems;Automation+Focus;Performance+Driven&center=true&width=600&height=40&color=00FF88" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Backend+Systems;Automation+Focused;Performance+Driven;Internal+System+Behavior&center=true&width=700&height=35&color=00FF88" />
 </p>
 
-Backend-focused developer building scalable systems with deep focus on performance and internal behavior.
+Backend-focused developer building scalable systems with emphasis on performance, request flow, and system internals.
 
 ---
 
-<!-- EXPERIENCE TITLE (glow pulse) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00ff,100:000000&height=60&section=header&text=EXPERIENCE&fontSize=28&fontColor=ffffff&animation=twinkling" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=EXPERIENCE;LOADING+DATA...;SYSTEM+SYNCED&center=true&width=500&height=40&color=00F0FF" />
 </p>
 
 - Freelance Full Stack Developer  
-- Built 5+ production systems  
-- Worked with international clients  
-- Delivered end-to-end applications  
+- Built production-grade applications  
+- Worked with international clients (UAE)  
+- Delivered full systems (frontend + backend + deployment)  
 
 ---
 
-<!-- STACK TITLE (minimal neon line style) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F0FF&height=40&section=header&text=STACK&fontSize=24&fontColor=ffffff" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=STACK;INITIALIZING+MODULES...&center=true&width=500&height=40&color=FFCC00" />
 </p>
 
 <p align="center">
@@ -44,20 +47,18 @@ Backend-focused developer building scalable systems with deep focus on performan
 
 ---
 
-<!-- ACTIVITY TITLE (matrix feel) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=LIVE+ACTIVITY;SYSTEM+FLOW;REAL+TIME+COMMITS&center=true&width=600&height=45&color=00FF00" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=LIVE+ACTIVITY;STREAMING+DATA...&center=true&width=500&height=40&color=00FF88" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3xpthckr&bg_color=000000&color=00FF00&line=00F0FF&point=FF00FF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3xpthckr&bg_color=000000&color=00F0FF&line=FF00FF&point=00FF88&hide_border=true" />
 </p>
 
 ---
 
-<!-- STATS TITLE (bold tech style) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ffcc00,100:000000&height=60&section=header&text=STATS&fontSize=28&fontColor=ffffff" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=STATS;ANALYZING+SYSTEM...&center=true&width=500&height=40&color=FF00FF" />
 </p>
 
 <p align="center">
@@ -68,13 +69,8 @@ Backend-focused developer building scalable systems with deep focus on performan
 
 ---
 
-<!-- PROJECTS TITLE (cyberpunk style) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00f0ff&height=80&section=header&text=PROJECTS&fontSize=30&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Real+Systems;API+Driven;Automation+Focused&center=true&width=600&height=40&color=FF00FF" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=PROJECTS;ACCESSING+MODULES...&center=true&width=500&height=40&color=00F0FF" />
 </p>
 
 **doctor-patient-management-system**  
@@ -89,23 +85,27 @@ Tracks API requests and failures.
 **task-automation-engine**  
 Schedules backend jobs.
 
+**distributed-job-queue (in progress)**  
+Worker-based job queue.
+
+**rate-limiter-service (in progress)**  
+API rate limiting system.
+
 ---
 
-<!-- FOCUS TITLE (clean modern) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:000000&height=50&section=header&text=CURRENT%20FOCUS&fontSize=24&fontColor=ffffff" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CURRENT+FOCUS;SYSTEM+UPGRADES...&center=true&width=500&height=40&color=FFCC00" />
 </p>
 
 - System design  
 - Backend architecture  
-- Automation  
+- Automation systems  
 - Performance optimization  
 
 ---
 
-<!-- CONNECT TITLE (minimal glowing) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CONNECT&center=true&width=200&height=40&color=00F0FF" />
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CONNECT;OPEN+CHANNELS...&center=true&width=400&height=40&color=00F0FF" />
 </p>
 
 <p align="center">
@@ -119,6 +119,7 @@ Schedules backend jobs.
 
 ---
 
+<!-- footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00f0ff,100:00ff88&height=140&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00F0FF,100:00FF88&height=140&section=footer&animation=twinkling" />
 </p>
