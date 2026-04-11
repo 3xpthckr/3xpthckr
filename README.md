@@ -1,35 +1,33 @@
-<!-- BOOT -->
+<!-- subtle boot -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing...;Decrypting+Profile...;Access+Granted&center=true&width=600&height=50&color=00F0FF&size=26&pause=800" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Profile...;Access+Granted&center=true&width=500&height=40&color=00F0FF&size=22&pause=900" />
 </p>
 
-<!-- HEADER -->
+<!-- clean neon header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=140&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=120&section=header&animation=fadeIn" />
 </p>
-
----
 
 <h1 align="center">Ali Albahar</h1>
 
 <p align="center">
-Backend Engineer focused on scalable systems and internal behavior.
+Backend Engineer focused on scalable systems and internal behavior
 </p>
 
 ---
 
 ## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=[ABOUT];Decrypting...&center=true&width=300&height=35&color=00F0FF" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=%5B%23%24%25%5E%26...Decrypting+ABOUT...%5D;ABOUT&center=true&width=420&height=35&color=00F0FF" />
 </p>
 
 Backend-focused developer building automation tools and API-driven systems.
 
-Focused on performance, request flow, and system internals rather than abstractions.
+Focused on performance, request flow, and system internals.
 
 ---
 
 ## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=[EXPERIENCE];Loading...&center=true&width=320&height=35&color=00F0FF" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=%24%25%5E%26%2A...Loading+EXPERIENCE...;EXPERIENCE&center=true&width=460&height=35&color=00F0FF" />
 </p>
 
 - Freelance Full Stack Developer  
@@ -63,7 +61,9 @@ Focused on performance, request flow, and system internals rather than abstracti
 
 ---
 
-## Projects
+## <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=%5E%26%25%24...Accessing+PROJECTS...;PROJECTS&center=true&width=420&height=35&color=00F0FF" />
+</p>
 
 **api-monitoring-system**  
 Tracks API requests and failures.
@@ -98,7 +98,6 @@ Worker-based job queue.
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=100&section=footer" />
 </p>
