@@ -5,11 +5,11 @@ Backend-focused developer building automation tools and API-driven systems.
 </p>
 
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Automation+Engineer;API+Builder;Node.js+Internals;System+Design+Focus&center=true&width=500&height=45" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Automation+Engineer;API+Builder;Node.js+Specialist&center=true&width=500&height=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=120&section=header" />
 </p>
 
 ---
@@ -25,13 +25,15 @@ My work revolves around automation, APIs, and understanding performance rather t
 ## Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3xpthckr&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -42,19 +44,6 @@ My work revolves around automation, APIs, and understanding performance rather t
   <img src="https://github-readme-stats.vercel.app/api?username=3xpthckr&show_icons=true&theme=dark&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xpthckr&theme=dark&hide_border=true" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:habeebali.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/3xpthckr/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -96,7 +85,19 @@ JWT-based authentication service with role-based access control.
 
 ---
 
-## Signal
+## Connect
 
-Focused on building real systems, not just tutorials.  
-Interested in backend engineering and scalable architectures.
+<p align="center">
+  <a href="mailto:habeebali.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/3xpthckr/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer" />
+</p>
