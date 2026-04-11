@@ -55,9 +55,8 @@ Dec 2023 – Present
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3xpthckr&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/3xpthckr/3xpthckr/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## Projects
