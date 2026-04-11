@@ -1,44 +1,57 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ali+Albahar;Backend+Engineer;Automation+Systems;API+Architect&center=true&width=650&height=60&color=00F0FF&size=30&pause=800" />
-</h1>
-
-<!-- Animated gradient header -->
+<!-- BOOT SCREEN -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF00FF,100:00FF88&height=160&section=header&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+System...;Loading+Modules...;Decrypting+Profile...;Access+Granted;Ali+Albahar&center=true&width=700&height=60&color=00F0FF&size=28&pause=700" />
 </p>
 
-<!-- subtle animated line -->
+<!-- Animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,30:FF00FF,60:00FF88,100:FFCC00&height=180&section=header&animation=twinkling" />
+</p>
+
+<!-- Glitch divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212897782-965815c1-7b2b-4e4c-9f1c-4a5d5c7b6d6e.gif" width="100%" />
 </p>
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=ABOUT+ME;DECRYPTING+PROFILE...;ACCESS+GRANTED&center=true&width=500&height=40&color=FF00FF" />
+<!-- IDENTITY -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ALI+ALBAHAR;BACKEND+ENGINEER;SYSTEM+ARCHITECT;AUTOMATION+SPECIALIST&center=true&width=700&height=50&color=FF00FF&size=26" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Backend+Systems;Automation+Focused;Performance+Driven;Internal+System+Behavior&center=true&width=700&height=35&color=00FF88" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;Performance+Focused;Internal+Behavior+Driven&center=true&width=700&height=40&color=00FF88" />
 </p>
-
-Backend-focused developer building scalable systems with emphasis on performance, request flow, and system internals.
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=EXPERIENCE;LOADING+DATA...;SYSTEM+SYNCED&center=true&width=500&height=40&color=00F0FF" />
+<!-- ABOUT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[ABOUT];Parsing+Core+Data...;System+Analysis+Ready&center=true&width=600&height=40&color=00F0FF" />
+</p>
+
+Backend-focused developer focused on system internals, request flow, and performance.
+
+Builds real-world backend systems with emphasis on automation and scalability.
+
+---
+
+<!-- EXPERIENCE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[EXPERIENCE];Loading+History...;Records+Verified&center=true&width=600&height=40&color=FF00FF" />
 </p>
 
 - Freelance Full Stack Developer  
-- Built production-grade applications  
-- Worked with international clients (UAE)  
-- Delivered full systems (frontend + backend + deployment)  
+- Built production systems for real clients  
+- Worked with international (UAE) clients  
+- Delivered complete applications end-to-end  
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=STACK;INITIALIZING+MODULES...&center=true&width=500&height=40&color=FFCC00" />
+<!-- STACK -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[STACK];Initializing+Modules...&center=true&width=500&height=40&color=FFCC00" />
 </p>
 
 <p align="center">
@@ -47,8 +60,9 @@ Backend-focused developer building scalable systems with emphasis on performance
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=LIVE+ACTIVITY;STREAMING+DATA...&center=true&width=500&height=40&color=00FF88" />
+<!-- LIVE GRAPH -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[LIVE+DATA];Streaming+Activity...&center=true&width=600&height=40&color=00FF88" />
 </p>
 
 <p align="center">
@@ -57,8 +71,9 @@ Backend-focused developer building scalable systems with emphasis on performance
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=STATS;ANALYZING+SYSTEM...&center=true&width=500&height=40&color=FF00FF" />
+<!-- STATS -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[SYSTEM+STATS];Analyzing+Metrics...&center=true&width=600&height=40&color=FF00FF" />
 </p>
 
 <p align="center">
@@ -69,8 +84,20 @@ Backend-focused developer building scalable systems with emphasis on performance
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=PROJECTS;ACCESSING+MODULES...&center=true&width=500&height=40&color=00F0FF" />
+<!-- SNAKE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[CONTRIBUTIONS];Executing+Sequence...&center=true&width=600&height=40&color=00F0FF" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- PROJECTS -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[PROJECTS];Accessing+Modules...&center=true&width=600&height=40&color=FFCC00" />
 </p>
 
 **doctor-patient-management-system**  
@@ -93,19 +120,21 @@ API rate limiting system.
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=CURRENT+FOCUS;SYSTEM+UPGRADES...&center=true&width=500&height=40&color=FFCC00" />
+<!-- FOCUS -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[FOCUS];System+Upgrade+In+Progress...&center=true&width=600&height=40&color=00FF88" />
 </p>
 
-- System design  
 - Backend architecture  
+- System design  
 - Automation systems  
 - Performance optimization  
 
 ---
 
-## <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=CONNECT;OPEN+CHANNELS...&center=true&width=400&height=40&color=00F0FF" />
+<!-- CONTACT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[CONNECT];Opening+Channels...&center=true&width=500&height=40&color=FF00FF" />
 </p>
 
 <p align="center">
@@ -121,5 +150,5 @@ API rate limiting system.
 
 <!-- footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00F0FF,100:00FF88&height=140&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00F0FF,100:00FF88&height=160&section=footer&animation=twinkling" />
 </p>
