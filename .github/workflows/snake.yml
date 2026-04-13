@@ -8,10 +8,6 @@ workflow_dispatch:
 permissions:
 contents: write
 
-concurrency:
-group: "snake"
-cancel-in-progress: true
-
 jobs:
 generate:
 runs-on: ubuntu-latest
@@ -20,15 +16,13 @@ runs-on: ubuntu-latest
 steps:
   - uses: actions/checkout@v3
 
-  - name: Generate snake (true dark mode)
+  - name: Generate snake (dark mode)
     uses: Platane/snk@v3
     with:
       github_user_name: 3xpthckr
       outputs: |
-        dist/github-contribution-grid-snake-dark.svg
-      color_snake: "#00F0FF"
-      color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
-      background_color: "#0d1117"
+        dist/snake.svg
+        dist/snake-dark.svg?palette=github-dark
 
   - name: Push to output branch
     uses: crazy-max/ghaction-github-pages@v3
