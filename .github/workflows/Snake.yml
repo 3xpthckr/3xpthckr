@@ -9,13 +9,11 @@ permissions:
 contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+ generate:
+  runs-on: ubuntu-latest
 
-```
 steps:
-  - uses: actions/checkout@v3
-
+ - uses: actions/checkout@v3
   - name: Generate snake (dark mode)
     uses: Platane/snk@v3
     with:
@@ -31,4 +29,3 @@ steps:
       build_dir: dist
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
